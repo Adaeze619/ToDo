@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\DECAGON TASKS\Ef\TodoApp\ToDo.Data\bin\Debug\net6.0\ToDo.Data.deps.json
+C:\Users\user\Desktop\DECAGON TASKS\Ef\TodoApp\ToDo.Data\bin\Debug\net6.0\ToDo.Data.runtimeconfig.json
+C:\Users\user\Desktop\DECAGON TASKS\Ef\TodoApp\ToDo.Data\bin\Debug\net6.0\ToDo.Data.dll
+C:\Users\user\Desktop\DECAGON TASKS\Ef\TodoApp\ToDo.Data\bin\Debug\net6.0\ToDo.Data.pdb
+C:\Users\user\Desktop\DECAGON TASKS\Ef\TodoApp\ToDo.Data\obj\Debug\net6.0\ToDo.Data.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\DECAGON TASKS\Ef\TodoApp\ToDo.Data\obj\Debug\net6.0\ToDo.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\DECAGON TASKS\Ef\TodoApp\ToDo.Data\obj\Debug\net6.0\ToDo.Data.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\DECAGON TASKS\Ef\TodoApp\ToDo.Data\obj\Debug\net6.0\ToDo.Data.AssemblyInfo.cs
+C:\Users\user\Desktop\DECAGON TASKS\Ef\TodoApp\ToDo.Data\obj\Debug\net6.0\ToDo.Data.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\DECAGON TASKS\Ef\TodoApp\ToDo.Data\obj\Debug\net6.0\ToDo.Data.dll
+C:\Users\user\Desktop\DECAGON TASKS\Ef\TodoApp\ToDo.Data\obj\Debug\net6.0\refint\ToDo.Data.dll
+C:\Users\user\Desktop\DECAGON TASKS\Ef\TodoApp\ToDo.Data\obj\Debug\net6.0\ToDo.Data.pdb
+C:\Users\user\Desktop\DECAGON TASKS\Ef\TodoApp\ToDo.Data\obj\Debug\net6.0\ToDo.Data.genruntimeconfig.cache
+C:\Users\user\Desktop\DECAGON TASKS\Ef\TodoApp\ToDo.Data\obj\Debug\net6.0\ref\ToDo.Data.dll
